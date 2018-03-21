@@ -1,0 +1,4 @@
+Ćwiczenie 4:
+- korzystając ze znanych Ci komend poszukaj ilość wystąpień żądań GET na podstawie logu w pliku apache.log
+- w pliku /home/linux/cwiczenie4/answer.txt wpisz wynik
+- używając gzip skompresuj plik apache.log i zapisz wersję skompresowaną w katalogu /home/linux/cwiczenie4/

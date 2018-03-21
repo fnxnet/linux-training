@@ -1,0 +1,5 @@
+Ćwiczenie 1:
+- pobierz repozytorium i zapisz w katalogu /home/linux
+- odczytaj uprawnienia poszczególnych plików
+- ustaw prawa do wykonywania skryptu bashowego /home/linux/cwiczenie1/skrypt.sh
+- wykonaj skrypt /home/linux/cwiczenie1/skrypt.sh

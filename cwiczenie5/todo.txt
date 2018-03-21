@@ -1,0 +1,3 @@
+Ćwiczenie 5:
+- posortuj w odwróconej kolejności alfabetycznej ignorując przy tym poprzedzające białe znaki zawartość pliku data.txt
+- zapisz wynik w pliku sorted.txt używając zapisu w jednej linijce

@@ -1,0 +1,7 @@
+Ćwiczenie 3:
+- spakuj za pomocą tar’a katalog /home/linux i zapisz w katalogu /tmp/
+- wyświetl zawartość pliku /home/linux.tar w postaci listy
+- przeszukaj plik lorem.ipsum w poszukiwaniu frazy „morbi”
+- policz ile razy wystąpiła
+
+* czy da się szybciej policzyć?

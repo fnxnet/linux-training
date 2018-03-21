@@ -1,0 +1,12 @@
+Ćwiczenie 2:
+- Stworzyć 3 użytkowników i korespondujące im katalogi domowe: Adam, Magda, Wojtek Utworzyć grupy: „chlopaki” oraz „dziewczyny”
+- Stworzyć katalogi: /opt/group1 oraz /opt/group2 w obydwu właścicielem jest użytkownik root, grupa odpowiednio chlopaki (group1) i dziewczyny (group2) (z opcją zapisu i odczytu i wykonywania)
+- Użytkownicy Adam i Wojtek mają stworzyć pliki w „group1” Magda w „group2”.
+- Dodać Wojtka do grupy Adam.
+- Wojtek ma stworzyć katalog w katalogu domowym Adama, a w nim plik i dać uprawnienia do katalogu i pliku 700
+- Adam ma usunąć katalog stworzony przez Wojtka.
+
+Oczekiwany rezultat:
+ - zweryfikować czy Adam i wojtek nie mogą utworzyć pliku w /opt/group2 a Magda w /opt/group1
+ - domyślnie Wojtek nie może stworzyć katalogu w  katalogu domowym Adama, wynika to z uprawnień do katalogu, należy je zmienić
+ - Adam nie może usunąć katalogu stworzonego przez Wojtka - nie ma uprawnień do podglądu i usunięcia plików znajdujących się w jego katalogu

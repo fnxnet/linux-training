@@ -1,0 +1,7 @@
+Extra 1:
+- utwórz plik w katalogu /home/linux/{imię}/info.txt
+- w pliku zapisz swoje imię i nazwisko
+- utwórz plik w katalogu /home/linux/{imię}/motto.txt
+- w pliku zapisz motto, którym się kierujesz
+- stwórz wpis w crontab, który będzie wykonywał polecenie touch /tmp/„`date`” jako user „root” tylko o pełnych godzinach, we wtorek i czwartek między godzinami 9 a 17. 
+- wynik skopiuj do pliku /home/linux/extra1/cron.txt

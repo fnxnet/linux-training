@@ -1,0 +1,5 @@
+Ćwiczenie 6:
+- utwórz katalog /home/linux/sync
+- zsynchronizuj zawartość katalogu /home/linux/sync z /home/linux/cwiczenie6
+- zmień zawartość pliku question.txt odpowiadając na pytanie
+- prześlij zawartość pliku /home/linux/sync/question.txt do katalogu /home/linux/cwiczenie6 korzystając z SSH (scp)
